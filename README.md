@@ -1,6 +1,6 @@
 ## 21Matches
 
-- This is a simple tkinter game, that you can never win.
+- This is a tkinter game that you can never win.
   You are given 21 matches and need to pick the last match to win.
   You can only lift 1 or 2 matches at a point of time.
 
